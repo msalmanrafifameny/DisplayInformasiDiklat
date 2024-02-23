@@ -1,0 +1,11 @@
+/* Custom CSS */
+.box {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.video {
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 300px;
+}
